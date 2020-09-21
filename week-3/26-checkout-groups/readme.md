@@ -1,4 +1,4 @@
-# Checkout Groups - Fieldset
+    # Checkout Groups - Fieldset
 
 In [exercise 21](/week-3/21-dietary), you used `<fieldset>` and `<legend>` to group checkboxes together. In this exercise, you will use these tags to describe a group of fields that are related to each other.
 
